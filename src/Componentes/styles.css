@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.BarraInicio{
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #181D31;
+  width: 80%;
+  height: 80px;
+}
+.ElementosBarra{
+  float: right;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  margin-top: 17px;
+  margin-right: 10px;
+}
+.ElementosBarra:hover{
+  background-color: #678983;
+  border-radius: 10px;
+  
+}
